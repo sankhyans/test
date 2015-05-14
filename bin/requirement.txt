@@ -1,0 +1,11 @@
+1) python-dev
+2) pip
+3) BeautifulSoup4
+4) Selenium
+5) Chromedriver
+6) Google Chrome
+7) Firefox
+8) Nodejs
+9) Uncss
+10) Cleancss
+11) Imagemin
